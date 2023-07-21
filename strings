@@ -1,7 +1,0 @@
-string1 = 'my name is '
-print(string1)
-
-string2 = 'Nitish'
-print(string2)
-
-print(string1 + string2)
